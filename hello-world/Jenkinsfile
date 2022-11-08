@@ -7,7 +7,6 @@ pipeline {
                 echo 'My name is Nilesh'
                 echo 'my full name is nilesh Tiwari'
                 echo 'Bhaiya ye webhook kaam kyu nhi kar rhi'
-                echo 'ye kyu kaam nhi kar rha'
             }
         }
         stage('Compile') {
