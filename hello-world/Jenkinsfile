@@ -6,6 +6,7 @@ pipeline {
                 echo 'Run the static analysis to the code'
                 echo 'My name is Nilesh'
                 echo 'Bhaiya ye webhook kaam kyu nhi kar rhi'
+                echo 'last attemp isake baad so jaunga'
             }
         }
         stage('Compile') {
