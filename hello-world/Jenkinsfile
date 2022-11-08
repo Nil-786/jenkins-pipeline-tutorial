@@ -9,6 +9,7 @@ pipeline {
                 echo 'last attemp isake baad so jaunga'
                 echo 'sleeping'
                 echo 'sleeping again'
+                echo 'hehe'
             }
         }
         stage('Compile') {
